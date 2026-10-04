@@ -1,0 +1,8 @@
+streamlit>=1.38.0
+openai>=1.45.0
+chromadb>=0.5.5
+gitpython>=3.1.43
+tiktoken>=0.7.0
+python-dotenv>=1.0.1
+mcp>=1.2.0
+pydantic>=2.8.0
